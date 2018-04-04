@@ -1,0 +1,174 @@
+{
+    "api_info": {
+        "status": "healthy"
+    },
+    "items": [
+        {
+            "readings": [
+                {
+                    "station_id": "S109",
+                    "value": 27.4
+                },
+                {
+                    "station_id": "S117",
+                    "value": 28.7
+                },
+                {
+                    "station_id": "S50",
+                    "value": 27.3
+                },
+                {
+                    "station_id": "S43",
+                    "value": 27.9
+                },
+                {
+                    "station_id": "S108",
+                    "value": 28.1
+                },
+                {
+                    "station_id": "S121",
+                    "value": 27.9
+                },
+                {
+                    "station_id": "S111",
+                    "value": 27.2
+                },
+                {
+                    "station_id": "S122",
+                    "value": 27.5
+                },
+                {
+                    "station_id": "S60",
+                    "value": 27.9
+                },
+                {
+                    "station_id": "S115",
+                    "value": 28.8
+                },
+                {
+                    "station_id": "S116",
+                    "value": 28.5
+                },
+                {
+                    "station_id": "S104",
+                    "value": 27.3
+                }
+            ],
+            "timestamp": "2018-04-04T21:25:00+08:00"
+        }
+    ],
+    "metadata": {
+        "reading_type": "DBT 1M F",
+        "reading_unit": "deg C",
+        "stations": [
+            {
+                "device_id": "S109",
+                "id": "S109",
+                "location": {
+                    "latitude": 1.3764,
+                    "longitude": 103.8492
+                },
+                "name": "Ang Mo Kio Avenue 5"
+            },
+            {
+                "device_id": "S117",
+                "id": "S117",
+                "location": {
+                    "latitude": 1.256,
+                    "longitude": 103.679
+                },
+                "name": "Banyan Road"
+            },
+            {
+                "device_id": "S50",
+                "id": "S50",
+                "location": {
+                    "latitude": 1.3337,
+                    "longitude": 103.7768
+                },
+                "name": "Clementi Road"
+            },
+            {
+                "device_id": "S43",
+                "id": "S43",
+                "location": {
+                    "latitude": 1.3399,
+                    "longitude": 103.8878
+                },
+                "name": "Kim Chuan Road"
+            },
+            {
+                "device_id": "S108",
+                "id": "S108",
+                "location": {
+                    "latitude": 1.2799,
+                    "longitude": 103.8703
+                },
+                "name": "Marina Gardens Drive"
+            },
+            {
+                "device_id": "S121",
+                "id": "S121",
+                "location": {
+                    "latitude": 1.37288,
+                    "longitude": 103.72244
+                },
+                "name": "Old Choa Chu Kang Road"
+            },
+            {
+                "device_id": "S111",
+                "id": "S111",
+                "location": {
+                    "latitude": 1.31055,
+                    "longitude": 103.8365
+                },
+                "name": "Scotts Road"
+            },
+            {
+                "device_id": "S122",
+                "id": "S122",
+                "location": {
+                    "latitude": 1.41731,
+                    "longitude": 103.8249
+                },
+                "name": "Sembawang Road"
+            },
+            {
+                "device_id": "S60",
+                "id": "S60",
+                "location": {
+                    "latitude": 1.25,
+                    "longitude": 103.8279
+                },
+                "name": "Sentosa"
+            },
+            {
+                "device_id": "S115",
+                "id": "S115",
+                "location": {
+                    "latitude": 1.29377,
+                    "longitude": 103.61843
+                },
+                "name": "Tuas South Avenue 3"
+            },
+            {
+                "device_id": "S116",
+                "id": "S116",
+                "location": {
+                    "latitude": 1.281,
+                    "longitude": 103.754
+                },
+                "name": "West Coast Highway"
+            },
+            {
+                "device_id": "S104",
+                "id": "S104",
+                "location": {
+                    "latitude": 1.44387,
+                    "longitude": 103.78538
+                },
+                "name": "Woodlands Avenue 9"
+            }
+        ]
+    }
+}
