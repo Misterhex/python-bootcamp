@@ -2,8 +2,7 @@ from multiprocessing import Pool
 import socket
 
 print("-" * 20)
-#hostname = raw_input("\nplease enter hostname to scan...\n")
-hostname = "jialong-renovation.sg"
+hostname = raw_input("\nplease enter hostname to scan...\n")
 
 print("looking up {}".format(hostname))
 
